@@ -1,0 +1,25 @@
+body{font-family: 'Poppins', sans-serif;margin:none;}
+section{height: 500px;}
+.oneplus{float: left;
+width: 40%;margin-left:5%;padding-left: 4%;}
+h1{font: size 200px;}
+.highlighting-name{color: blue;font-weight: 1000;font-size: xx-large;}
+.oneplus img{width: 80%;}
+.oneplus p{color: dimgray;text-align: justify;}
+.oneplus a{text-decoration: none;color: white;font-weight: 10;background-image: linear-gradient(orange,red);padding:5px 10px;border-radius: 4px;}
+.topsection{background-image: url(images/header-bg.png);background-repeat: no-repeat;background-size: 100%;}
+.middlesection{background-image: url(images/biography-bg.png);background-repeat: no-repeat;background-size: cover;}
+.center{text-align: center;}
+.apple{float: left;width: 30%;margin-left: 2%;margin-top: 2%;}
+.apple img{width: 100%;}
+.latestwork{background-image: url(images/latest-work-bg.png);background-repeat: no-repeat;background-size: cover;}
+#paddingkorbo{padding-top: 100px;text-align: center;}
+h3{padding-top: 40px;text-align: center;}
+#paragraph{color: dimgray;text-align: center;}
+#dhur{padding-top: 20px;text-align: center;color: dimgray;font-size: larger;padding-left: 400px;padding-right: 400px;}
+.shesh{margin-top: 60px;margin-left: 600px;height: 100px;width: 300px;background-image: linear-gradient(orange,yellow);border-radius: 10px;padding:10px 45px}
+.shesh a{text-decoration:none;color: white;text-align: center;}
+#gama{text-align: center;}
+footer{margin-top: 100px;}
+#etaishesh{font-size:small;text-align: center;}
+.lastportion{background-image: url(images/footer-bg.png);background-repeat: no-repeat;background-size: 100%;}
